@@ -218,7 +218,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &64013589
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -366,7 +366,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &82683364
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -514,7 +514,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &90879818
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -822,7 +822,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &143774326
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1127,7 +1127,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   defaultImage: {fileID: 21300000, guid: 8685895294eeeff48ad17eb74e31650e, type: 3}
   pressedImage: {fileID: 21300000, guid: 36938597eeafe044d9d9978b7a54b037, type: 3}
-  keyToPress: 97
+  keyToPress: 276
   Note: {fileID: 0}
 --- !u!1 &179066273
 GameObject:
@@ -1224,7 +1224,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &179066277
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1405,7 +1405,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &296153913
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1632,7 +1632,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &378802256
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1780,7 +1780,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &413881813
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1928,7 +1928,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &465307561
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2076,7 +2076,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &474957794
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2224,7 +2224,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &491873414
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2464,7 +2464,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &540875949
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2691,7 +2691,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &654739265
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2839,7 +2839,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &658577752
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3082,7 +3082,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &759759598
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3354,7 +3354,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &870012459
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3581,7 +3581,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &900374844
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3876,7 +3876,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &946911238
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4221,7 +4221,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &1066439129
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4638,7 +4638,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &1235601754
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4865,7 +4865,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1270897050
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5013,7 +5013,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &1351548449
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5161,7 +5161,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1360175258
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5309,7 +5309,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &1455153510
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5457,7 +5457,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1477545653
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5605,7 +5605,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1479277060
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5886,7 +5886,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1534927480
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6034,7 +6034,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &1566572169
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6182,7 +6182,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1575074940
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6393,7 +6393,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1661911441
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6541,7 +6541,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1670581054
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6689,7 +6689,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &1677552980
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6837,7 +6837,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1692688903
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6985,7 +6985,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 100
+  keyToPress: 275
 --- !u!212 &1828973339
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7133,7 +7133,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1844362264
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7281,7 +7281,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1881313247
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7429,7 +7429,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &1906088020
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7813,7 +7813,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   defaultImage: {fileID: 21300000, guid: 822884ebb1146744d9f8dd0cc5859986, type: 3}
   pressedImage: {fileID: 21300000, guid: 36938597eeafe044d9d9978b7a54b037, type: 3}
-  keyToPress: 100
+  keyToPress: 275
   Note: {fileID: 0}
 --- !u!1 &2037666888
 GameObject:
@@ -7910,7 +7910,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &2037666892
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8058,7 +8058,7 @@ MonoBehaviour:
   beatTempo: 0
   hasStarted: 0
   canBePressed: 0
-  keyToPress: 97
+  keyToPress: 276
 --- !u!212 &2058935080
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8356,6 +8356,10 @@ PrefabInstance:
       propertyPath: MissEffect
       value: 
       objectReference: {fileID: 3587782050636970441, guid: 0d0c10a5f548bff4a8b72c418fef456c, type: 3}
+    - target: {fileID: 3586563151286990028, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
+      propertyPath: keyToPress
+      value: 275
+      objectReference: {fileID: 0}
     - target: {fileID: 3638169551112660888, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -8440,6 +8444,10 @@ PrefabInstance:
       propertyPath: MissEffect
       value: 
       objectReference: {fileID: 3587782050636970441, guid: 0d0c10a5f548bff4a8b72c418fef456c, type: 3}
+    - target: {fileID: 5811075791184795029, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
+      propertyPath: keyToPress
+      value: 275
+      objectReference: {fileID: 0}
     - target: {fileID: 6272704939049566417, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
       propertyPath: m_TagString
       value: Note
@@ -8448,10 +8456,18 @@ PrefabInstance:
       propertyPath: MissEffect
       value: 
       objectReference: {fileID: 3587782050636970441, guid: 0d0c10a5f548bff4a8b72c418fef456c, type: 3}
+    - target: {fileID: 6301872950064085369, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
+      propertyPath: keyToPress
+      value: 276
+      objectReference: {fileID: 0}
     - target: {fileID: 6789390566760485060, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
       propertyPath: MissEffect
       value: 
       objectReference: {fileID: 3587782050636970441, guid: 0d0c10a5f548bff4a8b72c418fef456c, type: 3}
+    - target: {fileID: 6789390566760485060, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
+      propertyPath: keyToPress
+      value: 276
+      objectReference: {fileID: 0}
     - target: {fileID: 6836888793436378422, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
       propertyPath: m_TagString
       value: Note
@@ -8460,14 +8476,26 @@ PrefabInstance:
       propertyPath: MissEffect
       value: 
       objectReference: {fileID: 3587782050636970441, guid: 0d0c10a5f548bff4a8b72c418fef456c, type: 3}
+    - target: {fileID: 7076717589306186148, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
+      propertyPath: keyToPress
+      value: 276
+      objectReference: {fileID: 0}
     - target: {fileID: 7398049072867091921, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
       propertyPath: MissEffect
       value: 
       objectReference: {fileID: 3587782050636970441, guid: 0d0c10a5f548bff4a8b72c418fef456c, type: 3}
+    - target: {fileID: 7398049072867091921, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
+      propertyPath: keyToPress
+      value: 275
+      objectReference: {fileID: 0}
     - target: {fileID: 8299626481088031380, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
       propertyPath: MissEffect
       value: 
       objectReference: {fileID: 3587782050636970441, guid: 0d0c10a5f548bff4a8b72c418fef456c, type: 3}
+    - target: {fileID: 8299626481088031380, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
+      propertyPath: keyToPress
+      value: 276
+      objectReference: {fileID: 0}
     - target: {fileID: 8867783769055939856, guid: 83ffcf216b7bcdb4f9b1e41b7ae3e121, type: 3}
       propertyPath: m_TagString
       value: Note

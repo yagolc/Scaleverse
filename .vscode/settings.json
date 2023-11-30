@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Eu tenho ritimo.sln"
+    "dotnet.defaultSolution": "Scaleverse.sln"
 }
